@@ -1,0 +1,24 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="fil_rouge_prod.ludo.ludorecherche.models.PlayingMode.*" />
+          <option value="fil_rouge_prod.ludo.ludorecherche.models.Game.*" />
+          <option value="fil_rouge_prod.ludo.ludorecherche.models.AddOn.*" />
+          <option value="fil_rouge_prod.ludo.ludorecherche.models.MultiAddOn.*" />
+          <option value="fil_rouge_prod.ludo.ludorecherche.models.Designer.*" />
+          <option value="fil_rouge_prod.ludo.ludorecherche.models.Artist.*" />
+          <option value="fil_rouge_prod.ludo.ludorecherche.models.Publisher.*" />
+          <option value="fil_rouge_prod.ludo.ludorecherche.models.Tag.*" />
+          <option value="fil_rouge_prod.ludo.ludo.urls.ludorecherche" />
+          <option value="fil_rouge_prod.ludo.ludorecherche.models.Language.*" />
+          <option value="fil_rouge_prod.ludo.ludorecherche.models.Difficulty.*" />
+          <option value="fil_rouge_prod.ludo.ludorecherche.models.Background.*" />
+          <option value="fil_rouge_prod.ludo.ludorecherche.models.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
